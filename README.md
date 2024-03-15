@@ -1,1 +1,1 @@
-# Common interview questions: Data structures and Algorithms
+# Prime Game
